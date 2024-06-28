@@ -109,6 +109,6 @@ fn play_game(){
 }
 
 fn main(){
-  println!("Welcome to the Katam Kutta Game");
+  println!("Welcome to the Tic Tac Toe Game");
   play_game();
 }
